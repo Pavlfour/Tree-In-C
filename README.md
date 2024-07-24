@@ -1,4 +1,4 @@
-# Tree_In_C
+# Tree-In-C
 A simple project displaying a christmas tree, refreshing and displaying the same tree in different colors!
 
 
